@@ -1,0 +1,1 @@
+Projeto de página web simples proposto como desafio pela plataforma Frontend Mentor.
