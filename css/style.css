@@ -93,6 +93,10 @@ main {
         text-align: center;
     }
 
+    .card-principal-informacoes h1 {
+        font-size: 34px;
+    }
+
     .img-card {
         height: 30vh;
     }
